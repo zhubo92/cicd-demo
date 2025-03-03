@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,b as s,a as n}from"./index-ht37-DqN.js";const r={},c={class:"wrap-content"};function a(_,e){return n(),o("div",c,e[0]||(e[0]=[s("h1",null,"Vite + Vue3 + TypeScript + Element Plus 企业中台最佳实践",-1)]))}const l=t(r,[["render",a],["__scopeId","data-v-33506d9b"]]);export{l as default};
